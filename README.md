@@ -4,4 +4,6 @@ This data reports on the volume, value, unit value, and import market share of c
 a. Woven Fabrics Of Synthetic Filament Yarn 
 b. Womens Trousers And Breeches   
 
+After isolating the data, I used Pandas to create a separate excel file in the same directory. 
+
 The public data can be found here: https://catalog.data.gov/dataset/textile-and-apparel-imports-from-china-statistical-reports-fourth-quarter-2021
